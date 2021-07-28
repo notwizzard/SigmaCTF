@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Анкета</title>
+    <link href="./style.css" rel="stylesheet">
+    <link rel="SHORTCUT ICON" href="./logo.svg" type="image/x-icon">
+    <script src="./main.js"></script>
+</head>
+<body>
+    <div class="horizontal">
+        <div class="vertical"><br>
+            <span class="name">Заполните анкету</span><br>
+            <div class="anketa">
+                <div class="cont">
+
+                    <label>Как вас зовут?</label><br> 
+                    <input type="text" id="name"><br> 
+                    <span class="error" id="errname"></span><br><br>
+
+                    <label>Укажите ваш возраст</label><br> 
+                    <input type="text" id="age"><br> 
+                    <span class="error" id="errage"></span><br><br>
+
+                    <label>Сколькими транспортными средствами вы обладаете?</label><br> 
+                    <input type="text" id="ts"><br> 
+                    <span class="error" id="errts"></span><br><br>
+
+                    <label>Сколько у вас детей?</label><br> 
+                    <input type="text" id="kids"><br> 
+                    <span class="error" id="errkids"></span><br><br>
+
+                    <label>Укажите возраст детей</label><br> 
+                    <input type="text" id="kidsage"><br> 
+                    <span class="error" id="errkidsage"></span><br><br>
+
+                    <label>У вас есть домашнее животное?</label><br> 
+                    <input type="text" id="pet"><br> 
+                    <span class="error" id="errpet"></span><br><br>
+
+                    <label>Ожидаемая зарплата?</label><br> 
+                    <input type="text" id="salary"><br> 
+                    <span class="error" id="errsalary"></span><br><br>
+
+                    <label>Оцените данную анкету по шкале от 1 до 10</label><br> 
+                    <input type="text" id="mark"><br> 
+                    <span class="error" id="errmark"></span><br><br>
+
+                    <span id="state">Состояние: ожидает проверки</span><br>
+
+                    <button onclick="Sender()">проверить</button>
+
+
+                </div>
+
+            </div><br>
+        </div>
+    </div>
+    
+</body>
+</html>

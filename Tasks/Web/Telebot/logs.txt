@@ -1,0 +1,17 @@
+
+[message] rere
+[from] epicid
+[time] 16:33 06/05/2021
+[message] f
+[from] epicid
+[time] 16:34 06/05/2021
+[message] привет
+[from] epicid
+[time] 16:34 06/05/2021
+[message] ' OR 1 #
+[from] epicid
+[time] 16:34 06/05/2021
+
+[message] d
+[from] epicid
+[time] 16:35 06/05/2021

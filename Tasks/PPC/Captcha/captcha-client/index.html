@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <title>CAPTCHA</title>
+    <link href="./style.css" rel="stylesheet">
+    <link rel="SHORTCUT ICON" href="./logo.svg" type="image/x-icon">
+    <script src="./main.js"></script>
+</head>
+<body>
+    <div class="horizontal">
+        <div class="vertical">
+            <img src=./recaptcha.png>
+            <span><b class="name">CAPTCHA</b></span><br>
+            <span>У тебя есть лишь несколько сотых секунды, чтобы успеть отправить капчу!</span><br>
+            <div class="captcha">
+                <span id="captcha" class="captcha">капча скоро появится тут...</span>
+            </div><br>
+            <input id="message" type="text" placeholder="введи капчу">
+            <button onclick="Sender()">отправить</button>
+        </div>
+    </div>
+    
+</body>
+</html>

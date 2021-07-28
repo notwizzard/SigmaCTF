@@ -1,0 +1,20 @@
+* {
+	font-size: large;
+}
+
+.login-title {
+	text-align: center;
+}
+
+.login-form {
+	margin: 0 auto;
+	width: 300px;
+}
+
+.admin-info {
+	text-align: center;
+}
+
+.red {
+	color: red;
+}

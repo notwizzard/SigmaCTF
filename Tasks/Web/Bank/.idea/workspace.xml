@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7f090cc4-418e-43e2-8356-61bbb3a5e328" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="966b9b93-323d-4647-91c3-f14ccb19214e" name="Unnamed" />
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1rzGHsX73U1HuJjMbS6H35BTX4e" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../php-8.0.5-nts-Win32-vs16-x64/php.exe" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="PHP Web Page.Unnamed">
+    <configuration name="Unnamed" type="PhpLocalRunConfigurationType" factoryName="PHP Console" nameIsGenerated="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="Unnamed" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" nameIsGenerated="true" browser="53e2f627-b1a7-4dfa-bfa7-5b83cc034776" server_name="Unnamed">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="PHP Script.Unnamed" />
+      <item itemvalue="PHP Web Page.Unnamed" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f090cc4-418e-43e2-8356-61bbb3a5e328" name="Default Changelist" comment="" />
+      <created>1619971429649</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619971429649</updated>
+      <workItem from="1619971434012" duration="1265000" />
+      <workItem from="1620016175862" duration="1463000" />
+      <workItem from="1620018382458" duration="919000" />
+      <workItem from="1620021565891" duration="1784000" />
+      <workItem from="1620023439218" duration="1746000" />
+      <workItem from="1620026295072" duration="613000" />
+      <workItem from="1620037053687" duration="1787000" />
+      <workItem from="1620047078676" duration="973000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="348" y="126" key="#CLI_Interpreters" timestamp="1619973359524">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="348" y="126" key="#CLI_Interpreters/0.40.1536.824@0.40.1536.824" timestamp="1619973359524" />
+    <state x="475" y="114" key="#PHP" timestamp="1619973362349">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="475" y="114" key="#PHP/0.40.1536.824@0.40.1536.824" timestamp="1619973362349" />
+    <state x="348" y="132" key="#Servers" timestamp="1619973424459">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="348" y="132" key="#Servers/0.40.1536.824@0.40.1536.824" timestamp="1619973424459" />
+    <state x="223" y="89" width="1089" height="775" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1619973430482">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="223" y="89" width="1089" height="775" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.40.1536.824@0.40.1536.824" timestamp="1619973430482" />
+    <state x="548" y="226" key="FileChooserDialogImpl" timestamp="1619973355795">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="548" y="226" key="FileChooserDialogImpl/0.40.1536.824@0.40.1536.824" timestamp="1619973355795" />
+    <state x="604" y="376" key="NewPhpFileDialog" timestamp="1619971500125">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="604" y="376" key="NewPhpFileDialog/0.40.1536.824@0.40.1536.824" timestamp="1619971500125" />
+  </component>
+</project>

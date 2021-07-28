@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Online Sea Battle Game</title>
+    <link href="./style.css" rel="stylesheet">
+    <link rel="SHORTCUT ICON" href="./logo.svg" type="image/x-icon">
+    <script src="./main.js"></script>
+</head>
+<body>
+    <div class="horizontal">
+        <div class="vertical">
+            <img src="warship.gif">
+            <label>X: <input id="x" type="number" placeholder="positive integer"></label>
+            <label>Y: <input id="y" type="number" placeholder="positive integer"></label>
+            
+            <button onclick="Sender()">fire</button>
+            <span id="result">result: null</span>
+            <span id="distance">distance: null</span>
+            <span id="time">fire time: null</span>
+        </div>
+    </div>
+    
+</body>
+</html>

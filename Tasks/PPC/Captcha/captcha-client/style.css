@@ -1,0 +1,67 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+}
+
+body {
+    margin: 0;
+    background-color:darkcyan;
+}
+
+.horizontal {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.vertical {
+    display: flex;
+    flex-direction: column;
+    min-height: 90vh;
+    justify-content: center;
+}
+
+img {
+    height: 20vh;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5vh;
+}
+
+span {
+    margin-top: 2vh;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+input {
+    margin-top: 2vh;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+button {
+    margin-top: 2vh;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div.captcha {
+    padding: 1vh;
+    border-width: 2px;
+    border: solid;
+    border-color: black;
+    background-color: grey;
+    color: honeydew;
+    text-align: center;
+}
+
+span.captcha {
+    font-size: x-large;
+    user-select: none;
+}
+
+.name {
+    font-size: xx-large;
+}

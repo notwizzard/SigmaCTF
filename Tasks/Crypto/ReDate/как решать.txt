@@ -1,0 +1,8 @@
+<?php
+ echo bin2hex('cryptography_is_my_hobby' ^ 'heymanhowareyouheymanhowareyouheymanhowareyouheymanhowareyouheymanhowareyouheymanhowareyouheymanhowareyouheymanhowareyouheymanhowareyouheymanhowareyouheymanhowareyouheymanhowareyouheymanhowareyouheymanhowareyouheymanhowareyou');
+
+XOR по гамме, 
+если 
+a XOR b = c
+то
+c XOR a = b
