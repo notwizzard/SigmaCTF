@@ -135,7 +135,7 @@ function dbGetAllInfo() {
         host: "wizzard1.beget.tech",
         user: "wizzard1_sigma",
         database: "wizzard1_sigma",
-        password: "C020903c!"
+        password: "password"
     });
 
     let compl = 0;
@@ -382,7 +382,7 @@ async function CheckFlag (userFlag, k, sender) {
         host: "wizzard1.beget.tech",
         user: "wizzard1_sigma",
         database: "wizzard1_sigma",
-        password: "C020903c!"
+        password: "password"
     });
 
     var goodFlag = false;
